@@ -3,6 +3,8 @@
 /**
  * ctrl_c - ignore Ctrl-C input and prints prompt again
  * @n: takes in int from signal
+ * Authors: Bakare Rilwan & Promise Oluchime
+ * Return: void
  */
 void ctrl_c(int n)
 {
