@@ -3,6 +3,7 @@
 /**
  * print_list - _print linked list
  * @h: linked list
+ * Authors: Oluchime Promise & Bakare Rilwan
  * Return: size of linked list
  */
 size_t print_list(list_t *h)
