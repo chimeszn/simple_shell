@@ -3,6 +3,7 @@
 /**
  * env_linked_list - creates a linked list from environmental variables
  * @env: environmental variables
+ * Authors: Bakare Rilwan & Promise Oluchime
  * Return: linked list
  */
 list_t *env_linked_list(char **env)
