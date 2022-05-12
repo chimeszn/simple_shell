@@ -5,6 +5,8 @@
  * @str: user's typed command
  * @c_n: nth user's typed command
  * @env: bring in environmental variables linked list to write shell name
+ * Authors: Bakare Rilwan & Oluchime Promise
+ * Return: void
  */
 void not_found(char *str, int c_n, list_t *env)
 {
