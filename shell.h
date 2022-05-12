@@ -1,5 +1,5 @@
-#ifndef SHELL
-#define SHELL
+#ifndef BACCRIE_CHIME
+#define BACCRIE_CHIME
 
 #include <stdlib.h>
 #include <stdio.h>
