@@ -3,7 +3,8 @@
 /**
  * c_exit - frees user's typed command and linked list before exiting
  * @str: user's typed command
- * @env: input the linked list of envirnment
+ * @env: input the linked list of environment
+ * Authors: Bakare Rilwan & Promise Oluchime
  */
 void c_exit(char **str, list_t *env)
 {
