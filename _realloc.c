@@ -5,6 +5,7 @@
  * @ptr: pointer to the memory previously allocated (malloc(old_size))
  * @old_size: size previously allocated
  * @new_size: new size to reallocate
+ * Authors: Bakare Rilwan & Promise Oluchime
  * Return: pointer to reallocated memory
  */
 
