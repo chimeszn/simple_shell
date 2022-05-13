@@ -3,6 +3,7 @@
 /**
  * get_line - stores into malloced buffer the user's command into shell
  * @str: buffer
+ * Authors: Bakare Rilwan & Promise Oluchime
  * Return: number of characters read
  */
 size_t get_line(char **str)
