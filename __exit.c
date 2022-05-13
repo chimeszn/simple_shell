@@ -3,6 +3,7 @@
 /**
  * c_atoi - custom atoi converts string to int
  * @s: string
+ * Authors: Bakare Rilwan & Promise Oluchime
  * Return: number if success, -1 if string contains non-numbers
  */
 int c_atoi(char *s)
