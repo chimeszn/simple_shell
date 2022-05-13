@@ -4,6 +4,7 @@
  * find_env - find given environmental variable in linked list
  * @env: environmental variable linked list
  * @str: variable name
+ * Authors: Promise oluchime & Bakare Rilwan
  * Return: idx of node in linked list
  */
 int find_env(list_t *env, char *str)

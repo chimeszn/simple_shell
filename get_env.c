@@ -4,6 +4,7 @@
  * c_strdup - custom string duplication; excludes beginning bytes
  * @str: string to duplicate (e.g. environmental variable PATH=/bin:/bin/ls)
  * @cs: number of bytes to exclude (e.g. excludes "PATH=")
+ * Authors: Promise Oluchime & Bakare Rilwan
  * Return: string (e.g. /bin:/bin/ls)
  */
 char *c_strdup(char *str, int cs)

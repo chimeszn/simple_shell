@@ -3,6 +3,7 @@
 /**
  * numlen - counts number of 0s in a tens power number
  * @n: number
+ * Authors: Bakare Rilwan & Oluchime Promise
  * Return: returns count of digits
  */
 int numlen(int n)
