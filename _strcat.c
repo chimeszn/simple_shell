@@ -4,6 +4,7 @@
  * _strcat - concatenate two strings
  * @dest: string to be appended to
  * @src: string to append
+ * Authors: Bakare Rilwan & Promise Oluchime
  * Return: concatenated string
  */
 char *_strcat(char *dest, char *src)
