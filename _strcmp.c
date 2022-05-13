@@ -4,6 +4,7 @@
  * _strcmp - compare two strings
  * @s1: string 1
  * @s2: string 2
+ * Authors: Bakare Rilwan & Promise Oluchime
  * Return: int that tells num spaces in between, 0 if exactly the same string
  */
 
