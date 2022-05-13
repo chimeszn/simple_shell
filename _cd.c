@@ -4,6 +4,7 @@
  * c_strcat - concatenate two strings ignoring the first character ("~" in cd)
  * @dest: string to be appended to
  * @src: string to append
+ * Authors: Bakare Rilwan & Promise Oluchime
  * Return: concatenated string
  */
 char *c_strcat(char *dest, char *src)
