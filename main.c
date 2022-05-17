@@ -5,7 +5,7 @@
  * @ac: argument count
  * @av: argument vectors
  * @env: environmental variables
- * Authors: Oluchime Promise & Bakare Rilwan
+ * Authors: Oluchime Promise & Bakare Rilwan.
  * Return: 0 on success
  */
 int main(int ac, char **av, char **env)
