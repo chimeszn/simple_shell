@@ -5,6 +5,7 @@
  * @str: a token
  * @pos: index position in user's command typed into shell
  * @delm: delimeter (e.g. " ");
+ * Authors: Bakare Rilwan and Oluchime Promise
  * Return: token length
  */
 int t_strlen(char *str, int pos, char delm)
